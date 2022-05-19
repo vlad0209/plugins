@@ -1,3 +1,7 @@
+## 0.3.1+8
+
+* Adds ability to purchase multiple quantity of one product
+
 ## 0.3.0+7
 
 * Minor fixes for new analysis options.
